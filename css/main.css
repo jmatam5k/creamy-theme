@@ -1,0 +1,10 @@
+.navbar {
+	background-color: #DA2C38;
+	color: #E98C68;
+} 
+.fondo{
+	background-image: url(../img/creamy.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:360px;
+}
