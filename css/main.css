@@ -9,32 +9,17 @@
     color: #EEEB97;
     margin-left: -85%;
 }
+.container-fluid{
+	background-color: rgba(0, 0, 0, 0.4);
+	background-size: cover;
+	height:370px;
+}
 .fondo{
 	background-image: url(../img/creamy.jpg);
 	background-position: center;
 	height:370px;
-	-webkit-filter: contrast(27%);
 	margin-top: -2%;
-}
-/****************/
-.h1tit{
-	color:#F5F7F8;
-	font-size: 40px;
-	padding-top:10%;
-	font-family:"Merriweather";
-}
-.ptit{
-	color:#F5F7F8;
-	font-size: 20px;
-	padding-bottom: 10%;
-	font-family:"Merriweather";
-}
-.fondo1{
-	background-color:#EEEB97;
-}
-.helado{
-	width: 100%;
-	padding: 5%;
+
 }
 .so{
 	padding-top: 5%;
@@ -78,4 +63,22 @@ footer{
 }
 .pyel{
 	color: #EEEB97;
+}
+
+.cr{
+	color:#EEEB97;
+	font-size: 40px;
+	padding-top:10%;
+	font-family:"Merriweather";
+}
+.ptit{
+	color:#EEEB97;
+	font-size: 20px;
+}
+.fondo1{
+	background-color:#EEEB97;
+}
+.helado{
+	width: 100%;
+	padding: 5%;
 }
